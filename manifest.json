@@ -1,23 +1,23 @@
 {
-    "name": "TechSolutions - Soluções Digitais",
-    "short_name": "TechSolutions",
-    "description": "Desenvolvemos soluções digitais inovadoras para impulsionar seu negócio",
+    "name": "CyberTech - Soluções Digitais do Futuro",
+    "short_name": "CyberTech",
+    "description": "Desenvolvemos soluções digitais futuristas e inovadoras com tecnologias de ponta",
     "start_url": "./index.html",
     "display": "standalone",
-    "background_color": "#fafaf9",
-    "theme_color": "#0284c7",
+    "background_color": "#0a0a0f",
+    "theme_color": "#00d4ff",
     "orientation": "portrait-primary",
-    "categories": ["business", "productivity", "technology"],
+    "categories": ["business", "productivity", "technology", "developer"],
     "lang": "pt-BR",
     "icons": [
         {
-            "src": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=192&h=192",
+            "src": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=192&h=192",
             "sizes": "192x192",
             "type": "image/jpeg",
             "purpose": "any maskable"
         },
         {
-            "src": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=512&h=512",
+            "src": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=512&h=512",
             "sizes": "512x512",
             "type": "image/jpeg",
             "purpose": "any maskable"
@@ -25,11 +25,11 @@
     ],
     "screenshots": [
         {
-            "src": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720",
+            "src": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1280&h=720",
             "sizes": "1280x720",
             "type": "image/jpeg",
             "platform": "wide",
-            "label": "TechSolutions - Página Principal"
+            "label": "CyberTech - Página Principal"
         }
     ]
 }
